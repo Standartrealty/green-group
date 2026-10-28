@@ -19,3 +19,5 @@ Node.js 22+: `npm run dev` (порт 4197), `npm run check`, `npm run build`. Р
 `source-content/usage-manifest.json` фиксирует использованные изображения, `reviews-verified.json` — проверенные сведения об отзывах. Подробности и расхождения — в `VERIFICATION.md`.
 
 Видео — предоставленная пользователем видеоиллюстрация, не подтверждённая съёмка проектов Green Group. Водяной знак сохранён. При reduced-motion или data-saver доступен постер и ручное воспроизведение.
+
+Опубликованный сайт: https://green-group-five.vercel.app/
